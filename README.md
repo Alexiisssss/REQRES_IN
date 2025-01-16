@@ -63,4 +63,4 @@
 
 1. Склонировать репозиторий:
 
-   git clone <ссылка-на-репозиторий>
+   git clone [<ссылка-на-репозиторий>](https://github.com/Alexiisssss/REQRES_IN.git)
